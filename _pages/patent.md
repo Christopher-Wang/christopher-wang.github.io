@@ -2,14 +2,14 @@
 layout: page
 permalink: /patents/
 title: Patents
-description: Here are a list patents that I was involved in! 
+description: My patents
 nav: true
 nav_order: 2
 ---
 
-<!-- _pages/patents.md -->
-<div class="patents">
+<!-- _pages/publications.md -->
+<div class="publications">
 
-{% bibliography --file patents%}
+{% bibliography --file patents %}
 
 </div>
