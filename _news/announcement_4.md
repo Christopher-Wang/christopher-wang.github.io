@@ -7,4 +7,5 @@ related_posts: True
 ---
 
 Every year, the number of transformations in the field of machine learning and artificial intelligence continues to rise! Generative AI solutions like ChatGPT and Midjourney have captured the imagination of the public, revealing capabilities that were long thought to be decades away. This year, I had the pleasure of working with Generative AI personally, building a Retrieval Augmented Generation (RAG) solution for enterprise documentation. Amazingly, we were able to bring the project from prototype to MVP in only two weeks! This was certainly only possible because of the great tiger team that I had the pleasure of working alongside. I look forward to what the future brings to the field of Artificial Intelligence!
+
 ---
