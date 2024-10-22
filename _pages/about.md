@@ -13,7 +13,7 @@ profile:
   #   Researcher at <a href='https://www.amii.ca/'>Alberta Machine Intelligence Institute</a>
   #   Senior Machine Learning Engineer at <a href='https://www.kinaxis.com/'>Kinaxis</a> 
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---

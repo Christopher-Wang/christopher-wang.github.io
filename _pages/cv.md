@@ -1,6 +1,7 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: assets/pdf/cv.pdf
+# permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
